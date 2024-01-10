@@ -1,0 +1,448 @@
+Dog
+Cub
+Pup
+Puppy
+Kitten
+Chick
+Eaglet
+Puffling
+Piglet
+Puggle
+Kit
+Jay
+Eyass
+Duckling
+Bear
+Foal
+Cat
+Elephant
+Lion
+Tiger
+Giraffe
+Zebra
+Monkey
+Panda
+Kangaroo
+Koala
+Penguin
+Polar bear
+Grizzly bear
+Panda bear
+Gorilla
+Hippopotamus
+Hippo
+Rhino
+Hippo
+Rhinoceros
+Leopard
+Jaguar
+Cheetah
+Panther
+Ostrich
+Emu
+Bird
+Rhea
+Flamingo
+Peacock
+Parrot
+Macaw
+Cockatoo
+Ape
+Orangutan
+Chimpanzee
+Chipmunk
+Bonobo
+Gibbon
+Sloth
+Koala
+Buffalo
+Kookaburra
+Falcon
+Hawk
+Eagle
+Owl
+Sparrow
+Hummingbird
+Woodpecker
+Crow
+Raven
+Robin
+Blue jay
+Cardinal
+Finch
+Starling
+Sparrowhawk
+Pelican
+Stork
+Fish
+Crane
+Kingfisher
+Gannet
+Seagull
+Albatross
+Dove
+Pigeon
+Swan
+Duck
+Goose
+Flamingo
+Heron
+Egret
+Ibis
+Puffin
+Penguin
+Magpie
+Rook
+Raven
+Crow
+Chickadee
+Chicken
+Nuthatch
+Titmouse
+Wren
+Thrush
+Warbler
+Sparrow
+Starling
+Jay
+Swallow
+House sparrow
+Sparrowhawk
+Goldfinch
+Greenfinch
+Siskin
+Linnet
+Bullfinch
+Chaffinch
+Brambling
+Hawfinch
+Grosbeak
+Cardinal
+Bunting
+Lark
+Swallow
+Swift
+Hirundinidae
+Sand martin
+House martin
+Barn swallow
+Common swift
+Pallid swift
+Alpine swift
+Fork-tailed swift
+Horse
+Cow
+Pig
+Sheep
+Goat
+Rabbit
+Mouse
+Rat
+Hamster
+Guinea pig
+Chinchilla
+Ferret
+Hedgehog
+Squirrel
+Raccoon
+Raccoon dog
+Fox
+Wolf
+Coyote
+Jackal
+Dingo
+Wild dog
+Dhole
+Red panda
+Arctic fox
+Fennec fox
+Bat
+Flying fox
+Fox
+Bear
+Mole
+Marmot
+Beaver
+Gopher
+Groundhog
+Otter
+Badger
+Wolverine
+Weasel
+Mink
+Fisher
+Stoat
+Polecat
+Ferret
+Genet
+Hyena
+Fossa
+Meerkat
+Mongoose
+Suricate
+Aardvark
+Aardwolf
+Numbat
+Bandicoot
+Bilby
+Kangaroo rat
+Rat
+Potoroo
+Quokka
+Quoll
+Dibbler
+Planigale
+Numbat
+Kangaroo mouse
+Mouse
+Jerboa
+Springhare
+Zorilla
+Hyena
+Lynx
+Bobcat
+Caracal
+Serval
+Ocelot
+Margay
+Jaguarundi
+Cheetah
+Cougar
+Mountain lion
+Lion
+Leopard
+Snow leopard
+Clouded leopard
+Tiger
+Lion
+Jaguar
+Panther
+Cheetah
+Lynx
+Caracal
+Serval
+Ocelot
+Margay
+Jaguarundi
+Fishing cat
+Pallas's cat
+Leopard cat
+Wildcat
+Sand cat
+Black-footed cat
+Scottish wildcat
+Wildcat
+Lion
+Tiger
+Leopard
+Jaguar
+Snow leopard
+Clouded leopard
+Caracal
+Serval
+Ocelot
+Cheetah
+Puma
+Cougar
+Mountain lion
+Jaguarundi
+Fishing cat
+Leopard cat
+Sunda clouded leopard
+Leopard
+Margay
+Flat-headed cat
+Rusty-spotted cat
+Iberian lynx
+Bobcat
+Asian golden cat
+Eurasian lynx
+African golden cat
+Jungle cat
+Bay cat
+Canada lynx
+Geoffroy's cat
+Pampas cat
+Marbled cat
+Andean mountain cat
+Serval
+Caracal
+Leopard
+Lion
+Tiger
+Jaguar
+Cheetah
+Ocelot
+Snow leopard
+Clouded leopard
+Lynx
+Bobcat
+Fishing cat
+Servaline genet
+Genet
+Spotted genet
+Common genet
+Cape genet
+Small-spotted genet
+Aquatic genet
+Panther genet
+Civet
+African palm civet
+Malayan civet
+Large-spotted civet
+Small Indian civet
+Masked palm civet
+Golden palm civet
+Binturong
+Banded palm civet
+Owston's palm civet
+Malabar large-spotted civet
+African civet
+Fossa
+Malagasy civet
+Central African oyan
+Linsang
+African linsang
+Banded linsang
+Malayan linsang
+Spotted linsang
+Mongoose
+Brown-tailed mongoose
+Ring-tailed mongoose
+Slender mongoose
+Small Indian mongoose
+Ruddy mongoose
+Stripe-necked mongoose
+White-tailed mongoose
+Collared mongoose
+Indian grey mongoose
+Short-tailed mongoose
+Black-legged mongoose
+Stripe-necked mongoose
+Cape gray mongoose
+Liberian mongoose
+Egyptian mongoose
+Angolan slender mongoose
+Somalian slender mongoose
+Selous's mongoose
+Meller's mongoose
+Yellow mongoose
+Bushy-tailed mongoose
+Marsh mongoose
+Dwarf mongoose
+Common dwarf mongoose
+Somalian dwarf mongoose
+Jackson's mongoose
+White-tailed mongoose
+Meerkat
+Yellow mongoose
+Sable mongoose
+Pousargues's mongoose
+Bushy-tailed mongoose
+Dwarf mongoose
+Savanna mongoose
+Banded mongoose
+Dwarf mongoose
+Egyptian mongoose
+Yellow mongoose
+Common slender mongoose
+Striped-necked mongoose
+White-tailed mongoose
+Bushy-tailed mongoose
+Banded mongoose
+Meerkat
+Sable mongoose
+Dwarf mongoose
+Savanna mongoose
+Common dwarf mongoose
+Striped-necked mongoose
+Cynictis
+Rhynchogale
+Crossarchus
+Crocodile
+Alligator
+Galerella
+Helogale
+Herpestes
+Mungos
+Paracynictis
+Rhynchogale
+Atilax
+Cynogale
+Hemigalus
+Arctictis
+Macrogalidia
+Paguma
+Arctogalidia
+Arctocephalus
+Callorhinus
+Eumetopias
+Neophoca
+Otaria
+Phocarctos
+Zalophus
+Ailuropoda
+Ailurus
+Melursus
+Helarctos
+Tremarctos
+Ursus
+Melursus
+Helarctos
+Tremarctos
+Ursus
+Panda
+Giant panda
+Red panda
+Sloth bear
+Sun bear
+Spectacled bear
+Brown bear
+American black bear
+Polar bear
+Asiatic black bear
+Andean bear
+Malayan sun bear
+Spectacled bear
+Sloth bear
+Sun bear
+Giant panda
+Red panda
+Spectacled bear
+Polar bear
+Sun bear
+Sloth bear
+American black bear
+Panda bear
+Asiatic black bear
+Brown bear
+Polar bear
+Spectacled bear
+Sun bear
+Malayan sun bear
+Sloth bear
+Spectacled bear
+Giant panda
+Red panda
+American black bear
+Polar bear
+Brown bear
+Spectacled bear
+Sun bear
+Asiatic black bear
+Andean bear
+Malayan sun bear
+Sloth bear
+Spectacled bear
+Giant panda
+Red panda
+American black bear
+Polar bear
+Brown bear
+Spectacled bear
+Sun bear
+Asiatic black bear
+Andean bear
+Malayan sun bear
+Sloth bear
+Spectacled bear
